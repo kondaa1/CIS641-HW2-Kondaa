@@ -9,4 +9,4 @@ As a business Analyst I have worked with different people from different cultura
 Working as scrum master was very tough as I needed to handle my team members' requests and make sure we are meeting the timelines of deliverables.
 
 ### Memes
-https://pics.astrologymemes.com/russian-photographer-captures-the-cutest-squirrel-photo-session-ever-4197975.png
+[Meme](https://pics.astrologymemes.com/russian-photographer-captures-the-cutest-squirrel-photo-session-ever-4197975.png)
