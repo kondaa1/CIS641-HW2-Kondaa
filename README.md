@@ -8,5 +8,5 @@ I worked in the telecom industry for 7 years in various domains (like a develope
 As a business Analyst I have worked with different people from different cultural backgrounds which helped me in my personal growth and also I learned about different cultures.
 Working as scrum master was very tough as I needed to handle my team members' requests and make sure we are meeting the timelines of deliverables.
 
-### Memes
+### Meme
 [Meme](https://pics.astrologymemes.com/russian-photographer-captures-the-cutest-squirrel-photo-session-ever-4197975.png)
