@@ -9,8 +9,8 @@ As a business Analyst I have worked with different people from different cultura
 Working as scrum master was very tough as I needed to handle my team members' requests and make sure we are meeting the timelines of deliverables.
 
 ### Link to Project
-https://kondaa1.github.io/GVSU-CIS641-Nidhyana/
+[Project URL](https://kondaa1.github.io/GVSU-CIS641-Nidhyana/)
 
 
 ### Memes
-https://pics.astrologymemes.com/russian-photographer-captures-the-cutest-squirrel-photo-session-ever-4197975.png
+[Meme](https://pics.astrologymemes.com/russian-photographer-captures-the-cutest-squirrel-photo-session-ever-4197975.png)
