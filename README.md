@@ -13,8 +13,7 @@ Working as scrum master was very tough as I needed to handle my team members' re
 
 ## Project Description
 
-We are developing an online job portal for local people and local businesses which will help job seekers to find the suitable jobs in their locality and local businesses will find a person who lives in the same locality. Agenda behind this website is to make job searching and job posting easier to the users.
-
+We are developing an online job portal named 'Local Business Employee Management (LBEM)' for local people and local business units which will help job seekers to find suitable jobs in their locality and local businesses will find a person who lives in the same locality. The main agenda behind this website is to make job searching and job posting easier for Local job seekers and Local business units around the Grand Rapids area and it will help to reduce the unemployment rate in the area.
 
 ### Memes
 [Meme](https://pics.astrologymemes.com/russian-photographer-captures-the-cutest-squirrel-photo-session-ever-4197975.png)
